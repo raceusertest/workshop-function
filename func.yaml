@@ -8,8 +8,8 @@ entrypoint: /python/bin/fdk /function/func.py handler
 memory: 2048
 timeout: 300
 config:
-  TOPIC_OCID: ocid1.onstopic.oc1.iad.aaaaaaaamsrlpmlgbugkmbsq345bsbgylb3tkj6lxzyq3odrhaggzqhcyleq
-  ADB_OCID: ocid1.autonomousdatabase.oc1.iad.anuwcljsw5gr4eqajvfhjeqs2sw4a5h275pzracnas3pflxju6k7iw6nytnq
+  TOPIC_OCID: ocid1.onstopic.oc1.sa-santiago-1.aaaaaaaak6otkx4veozwvjpn7s5i2sw5vvszq5f5322dzrizha6g6ihlxi7a
+  ADB_OCID: ocid1.autonomousdatabase.oc1.sa-santiago-1.anzwgljrfv3pniqaaoyxpsdu4wn7gl5eugfbitqadnuhcdxahuz2vazs3m7q
   COMPANY: Mi nombre de compania
   DBPWD: ClavE.012356,
   DBSVC: functionadb_high
